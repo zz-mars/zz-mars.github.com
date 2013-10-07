@@ -13,6 +13,4 @@ Recent posts :
   {% endfor %}
 </ul>
 
-## To-Do
-
 
