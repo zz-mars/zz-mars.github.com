@@ -5,7 +5,8 @@ description: "tech"
 category: "Cpp"
 tags: []
 ---
-
+重载
+<pre class="brush: cpp; title: ; notranslate" title="">
 void foo(int i) {}
 void foo(float f) {}
 void foo(double d) {}
@@ -18,5 +19,5 @@ int main()
 	foo(f);
 	foo(d);
 	return 0;
-}
+}</pre>
 
