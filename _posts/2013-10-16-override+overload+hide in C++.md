@@ -7,8 +7,7 @@ tags: []
 ---
 
 ----------------ol.cc----------------
-<pre class="brush: cpp; title: ; notranslate" title="">\#include <iostream>
-using namespace std;
+<pre class="brush: cpp; title: ; notranslate" title="">
 void foo(int i) {}
 void foo(float f) {}
 void foo(double d) {}
