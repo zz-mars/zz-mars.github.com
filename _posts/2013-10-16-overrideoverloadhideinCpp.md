@@ -7,7 +7,6 @@ tags: []
 ---
 First,let's see an example of overload in C++ :
 <pre>
-#include<iostream>
 void foo(int i) {}
 void foo(float f) {}
 void foo(double d) {}
