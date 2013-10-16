@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "override overload hide in C++"
-description: 
+description: "tech"
 category: "Cpp"
 tags: []
 ---
