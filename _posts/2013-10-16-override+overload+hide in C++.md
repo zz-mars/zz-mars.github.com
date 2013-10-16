@@ -7,8 +7,7 @@ tags: []
 ---
 
 ----------------ol.cc----------------
-<pre class="brush: cpp; title: ; notranslate" title="">
-void foo(int i) {}
+<pre class="brush: cpp; title: ; notranslate" title="">void foo(int i) {}
 void foo(float f) {}
 void foo(double d) {}
 int main()
@@ -20,6 +19,5 @@ int main()
 	foo(f);
 	foo(d);
 	return 0;
-}
-</pre>
+}</pre>
 
